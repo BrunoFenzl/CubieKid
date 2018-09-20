@@ -1,6 +1,6 @@
 # CubieKid
 
-![](https://github.com/jenshackel/CubieKid/blob/master/photos/CubieKid.jpg)
+![](https://github.com/jenshackel/CubieKid/blob/master/photos/CubieKid.jpg | width=250)
 
 A housing for MP3 players - made-to-measure children's needs
 
