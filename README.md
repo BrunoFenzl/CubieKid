@@ -1,6 +1,6 @@
 # CubieKid
 
-<img src="https://github.com/jenshackel/CubieKid/blob/master/photos/CubieKid.jpg" width="378" height="401">
+<img src="https://github.com/jenshackel/CubieKid/blob/master/photos/CubieKid.jpg" width="500">
 
 ### A housing for MP3 players - made-to-measure children's needs
 
@@ -10,7 +10,7 @@ This housing can be made from medium density fibreboard with a thickness of 3mm 
 
 I'm using a homemade CNC-mill ([Make: MaXYposi](https://www.heise.de/make/artikel/MaXYposi-Projektseite-zum-universellen-XY-Portalroboter-von-Make-3676050.html)) which works well. But you can use a Laser Cutting Device as well.
 
-<img src="https://github.com/jenshackel/CubieKid/blob/master/photos/CubieKid_1.jpg">
+<img src="https://github.com/jenshackel/CubieKid/blob/master/photos/CubieKid_1.jpg" width="500">
 
 
 
@@ -64,7 +64,7 @@ Glue the two long rectangular parts to the inner side of the back panel. They wi
 
 Now we need the two D-shaped sliders and the two smaller rectangular pieces. To make sure the slider’s function they probably need to be sandpapered to somewhat less than 3mm thickness.
 
-<img src="https://github.com/jenshackel/CubieKid/blob/master/photos/Panel_assembly_a.jpg">
+<img src="https://github.com/jenshackel/CubieKid/blob/master/photos/Panel_assembly_1.jpg">
 
 Put the siders on the inner side of the back panel – the rounded corners must face outside. Do NOT glue them. Put a small rectangular piece into each D-hole. Find a position where the slider is able to slide out about 4-5mm, then glue the rectangular piece to the back panel. The small rectangular pieces act as stoppers protecting the sliders from being pushed out too far.
 
