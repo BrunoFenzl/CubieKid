@@ -58,7 +58,7 @@ Take two different side panels and glue them together. Continue with the remaini
 
 Now you can start to assemble the back-cover with the locking function. Take the panel (that’s the one without any drill holes.) and put it into its later position at the box. 
 
-Glue the two long rectangular parts to the inner side of the back panel. They will keep the back panel in place, so they should be quite close to the upper / lower corner. Do NOT apply glue to the side facing the upper/lower panel – the back panel must be removable. Every box is a little bit different so it is the best to fix thr rear panel at the half-finished box (like at the photo) then glue in the rectangular Parts and push them in the direction of the yellow arrows.
+Glue the two long rectangular parts to the inner side of the back panel. They will keep the back panel in place, so they should be quite close to the upper / lower corner. Do NOT apply glue to the side facing the upper/lower panel – the back panel must be removable. Every box is a little bit different so it is the best to fix thr rear panel at the half-finished box (like at the photo) then glue in the rectangular parts and push them in the direction of the yellow arrows.
 
 <img src="https://github.com/jenshackel/CubieKid/blob/master/photos/Panel_assembly_1a.jpg">
 
