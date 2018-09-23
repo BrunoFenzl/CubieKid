@@ -30,7 +30,7 @@ Please follow the instructions step by step to build a good looking and stable b
 
 #### Wooden parts
 
-Cut out all parts. You need medium density fibreboard with a thickness of 3mm.
+Cut out all parts. You need medium density fibreboard with a thickness of 3mm. Here's a survey with all wooden parts you need:
 
 
 
