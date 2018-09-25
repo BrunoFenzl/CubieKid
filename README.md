@@ -1,4 +1,4 @@
-# CubieKid
+# CubieKid <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
 
 <img src="https://github.com/jenshackel/CubieKid/blob/master/photos/CubieKid.jpg" width="500">
 
@@ -11,10 +11,6 @@ This housing can be made from medium density fibreboard with a thickness of 3mm 
 I'm using a homemade CNC-mill ([Make: MaXYposi](https://www.heise.de/make/artikel/MaXYposi-Projektseite-zum-universellen-XY-Portalroboter-von-Make-3676050.html)) which works well. But you can use a Laser Cutting Device as well.
 
 <img src="https://github.com/jenshackel/CubieKid/blob/master/photos/CubieKid_1.jpg" width="500">
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
-
 
 
 ### Construction Manual
