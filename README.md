@@ -39,12 +39,6 @@ Highlights:
 - Battery voltage monitoring function with audio alert and shut-down
 
 
-The PCB fits on the rear panel. So the access to the Micro-SD Card and USB-Port are easy:
-
-<img src="https://github.com/jenshackel/CubieKid/blob/master/photos/PCB_assembly.jpg">
-
-
-
 ## Construction Manual
 
 Please follow the instructions step by step to build a good looking and stable box.
@@ -157,7 +151,7 @@ The finished pcb looks like this:
 
 <img src="https://github.com/jenshackel/CubieKid/blob/master/photos/PCB_assembly_2.jpg">
 
-It is small enough to be fitted on the upper half of the rear panel. Make sure the connecting wires are long enough to open the panel.
+It is small enough to be fitted on the upper half of the rear panel. So the access to the Micro-SD Card and USB-Port are easy: Make sure the connecting wires are long enough to open the panel.
 
 <img src="https://github.com/jenshackel/CubieKid/blob/master/photos/PCB_assembly.jpg">
 
