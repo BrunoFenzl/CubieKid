@@ -123,6 +123,8 @@ Use: Push the opening tool into the holes on one side of the box. Now pull the r
 
 ### Electronic Assembly
 
+<img src="https://github.com/jenshackel/CubieKid/blob/master/photos/PCB_2.jpg">
+
 You will need:
 
 - 1x 	pcb "CubieKid"
@@ -151,7 +153,7 @@ The finished pcb looks like this:
 
 <img src="https://github.com/jenshackel/CubieKid/blob/master/photos/PCB_assembly_2.jpg">
 
-It is small enough to be fitted on the upper half of the rear panel. So the access to the Micro-SD Card and USB-Port are easy: Make sure the connecting wires are long enough to open the panel.
+It is small enough to be fitted on the upper half of the rear panel. So the access to the Micro-SD Card and USB-Port are easy. Make sure the connecting wires are long enough to open the panel.
 
 <img src="https://github.com/jenshackel/CubieKid/blob/master/photos/PCB_assembly.jpg">
 
